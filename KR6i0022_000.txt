@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 過去莊嚴劫千佛名經
+#+DATE: 2015-08-30 20:08:01.700302
+#+PROPERTY: JUAN 0
